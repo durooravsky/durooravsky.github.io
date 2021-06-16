@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Patasi Carbon Bikes</title>
-    <link>https://durooravsky.github.io//posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Patasi Carbon Bikes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jun 2021 18:04:40 -0400</lastBuildDate><atom:link href="https://durooravsky.github.io//posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Jun 2021 18:04:40 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Patasi Carbon Bikes -  First Post</title>
-      <link>https://durooravsky.github.io//posts/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Wed, 16 Jun 2021 18:04:40 -0400</pubDate>
       
-      <guid>https://durooravsky.github.io//posts/my-first-post/</guid>
+      <guid>/posts/my-first-post/</guid>
       <description>Hello World !
 suckers
 -Duro</description>
